@@ -1,6 +1,3 @@
-# Template repository for Java 11 projects
+# Three different represantations of string expressions
 
-With this template you can easily bootstrap your Java 11 project on GitHub.
-
-You can start your project with single click on "Use this template" button above
-or just by clicking [here](https://github.com/avan1235/oop-java-template/generate).
+In here you can find implementation of different string expressions, including: list of strings, list of chars and array of chars.
